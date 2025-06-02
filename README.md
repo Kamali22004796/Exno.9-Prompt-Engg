@@ -29,12 +29,13 @@ Created multiple versions of the same concept (e.g., varying camera angles, weat
 # 8. Save and Compare Outputs:
 Saved each generated video and compared the effects of prompt structure, tone, and detail on the final video.
 
+## G-drive:
+
+https://drive.google.com/drive/folders/1IBeGSIs5ovnJSSy2JBRA2g5gQpkrBIIa?q=sharedwith:public%20parent:1IBeGSIs5ovnJSSy2JBRA2g5gQpkrBIIa
+
 # output:
 ![image](https://github.com/user-attachments/assets/3dcb4c60-daee-4442-bc37-a4ceec0a71ee)
 
 # Result:
 The Prompt of the above task executed successfully
-
-
-# Result:
 
